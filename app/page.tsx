@@ -71,15 +71,22 @@ export default function Home() {
             <div className="lg:pl-8">
               <p className="text-sm tracking-[0.3em] uppercase text-muted-foreground mb-4">Get to Know Me</p>
               <h2 className="font-serif text-4xl md:text-5xl mb-8">
-                About <span className="italic">The Stylist</span>
+                About <span className="italic">Ishani Duggal</span>
               </h2>
-              <div className="space-y-6 text-muted-foreground leading-relaxed text-xl">
+              <div className="space-y-6 text-muted-foreground leading-relaxed text-lg">
                 <p>
-                  Styling, for me, is more than clothing — it's about mood, identity, and presence.
-                  I work with brands, creators, and individuals to build looks that align with their vision while standing out effortlessly.
+                  I'm a fashion stylist and content creator with a strong passion for visual storytelling and creative direction. 
+                  Styling, for me, is more than clothing — it's about crafting mood, identity, and presence that resonates.
                 </p>
                 <p>
-                  With a strong eye for detail and trends, I focus on clean silhouettes, bold elements, and storytelling through fashion. My work blends creativity with practicality, ensuring every look feels wearable yet impactful.
+                  I completed my <strong className="text-foreground">Diploma in Fashion Communication from AAFT Noida</strong> (Batch 2024–2025), 
+                  where I developed a strong foundation in fashion concepts, styling aesthetics, and creative presentation. 
+                  Currently, I'm pursuing my <strong className="text-foreground">Diploma in Fashion Styling from NIFT Delhi</strong> (Batch 2025–2026), 
+                  where I'm refining my expertise in contemporary fashion, trend analysis, and styling for digital and commercial platforms.
+                </p>
+                <p>
+                  My work focuses on creating impactful, visually compelling styling that elevates brand identity and brings creative concepts to life. 
+                  I work with brands, creators, and individuals to build looks that align with their vision while standing out effortlessly.
                 </p>
               </div>
              
@@ -190,7 +197,7 @@ export default function Home() {
             {[
               "Strong understanding of trends and aesthetics",
               "Detail-oriented styling approach",
-              "Experience with luxury and contemporary brands",
+              "Creative vision aligned with modern fashion",
               "Reliable, creative, and brand-focused",
             ].map((item, i) => (
               <div key={i} className="flex items-start gap-4 bg-white p-6">

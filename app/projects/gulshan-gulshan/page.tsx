@@ -111,19 +111,6 @@ export default function GulshanGulshanProject() {
               
             </div>
 
-            {/* Illustration Board */}
-            <div>
-              <h4 className="text-2xl font-serif text-[#6B5A45] mb-6 text-center">Illustration Board</h4>
-              <div className="relative w-full aspect-[4/3] bg-[#FDF8F5] overflow-hidden border border-[#E8DDD5]">
-                <Image
-                  src="/illustrationboard.jpg"
-                  alt="Illustration Board - Fashion Designs"
-                  fill
-                  className="object-contain"
-                />
-              </div>
-            </div>
-
             {/* Colour Board */}
             <div>
               <h4 className="text-2xl font-serif text-[#6B5A45] mb-6 text-center">Colour Board</h4>
@@ -131,6 +118,19 @@ export default function GulshanGulshanProject() {
                 <Image
                   src="/colour.jpg"
                   alt="Colour Board - Bird of Paradise Palette"
+                  fill
+                  className="object-contain"
+                />
+              </div>
+            </div>
+
+            {/* Illustration Board */}
+            <div>
+              <h4 className="text-2xl font-serif text-[#6B5A45] mb-6 text-center">Illustration Board</h4>
+              <div className="relative w-full aspect-[4/3] bg-[#FDF8F5] overflow-hidden border border-[#E8DDD5]">
+                <Image
+                  src="/illustrationboard.jpg"
+                  alt="Illustration Board - Fashion Designs"
                   fill
                   className="object-contain"
                 />
