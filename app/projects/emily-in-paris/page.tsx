@@ -6,11 +6,11 @@ import { Button } from "@/components/ui/button";
 export default function EmilyInParisProject() {
   const galleryImages = [
     "/proj2a.jpg",
-    "/proj2b.jpg",
-    "/proj2c.jpg",
-    "/proj2d.jpg",
-    "/proj2e.jpg",
-    "/proj2f.jpg",
+    "/proj2b.JPG",
+    "/proj2c.JPG",
+    "/proj2d.JPG",
+    "/proj2e.JPG",
+    "/proj2f.JPG",
   ];
 
   return (
