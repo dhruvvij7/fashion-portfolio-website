@@ -222,13 +222,14 @@ export default function Home() {
             For collaborations, brand styling, or personal styling inquiries, feel free to reach out.
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-8 mb-12">
-            <a href="mailto:ishaniduggal461@gmail.com" className="flex items-center gap-3 text-foreground hover:text-rose transition-colors">
+            <a href="mailto:ishaniduggalwork@gmail.com" className="flex items-center gap-3 text-foreground hover:text-rose transition-colors">
               <Mail className="w-5 h-5" />
-              ishaniduggal461@gmail.com
+              ishaniduggalwork@gmail.com
             </a>
-            <a href="https://instagram.com/aavyaduggall" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 text-foreground hover:text-rose transition-colors">
+            <a href="https://instagram.com/styledbyishaniduggal" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 text-foreground hover:text-rose transition-colors">
               <Instagram className="w-5 h-5" />
-              @aavyaduggall
+              @styledbyishaniduggal
+
             </a>
           </div>
           {/* <Button className="bg-rose hover:bg-rose/90 text-white px-12 py-6 text-sm tracking-wider uppercase">
